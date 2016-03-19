@@ -13,4 +13,4 @@ http://jasmine.github.io/2.0/introduction.html
 
 ## How to open the Project
 * Live web link http://bxxhxx.github.io/frontend-nanodegree-feedreader
-* Source files at https://github.com/bxxhxx/frontend-nanodegree-feedreader (open index.html in a web browser to start)your codebase, without having to manually test all of the functionality.
+* Source files at https://github.com/bxxhxx/frontend-nanodegree-feedreader (open index.html in a web browser to start)
