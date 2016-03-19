@@ -108,10 +108,10 @@ $(function() {
          * Remember, loadFeed() is asynchronous so this test will require
          * the use of Jasmine's beforeEach and asynchronous done() function.
          */
-         /* using beforEach method to run loadFeed prior to test
-          * and usind the done function to delay the test until after
-          * asynchronous loadFeed is completed. done is used as a callback.
-          */
+        /* using beforEach method to run loadFeed prior to test
+         * and usind the done function to delay the test until after
+         * asynchronous loadFeed is completed. done is used as a callback.
+         */
         beforeEach(function(done) {
             loadFeed(1, done);
         });
