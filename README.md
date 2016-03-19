@@ -5,6 +5,7 @@ The code was written to test the following in the app:
 * The menu
 * Initial Entries
 * New Feed Selection
+
 Once the test runs, the results shows: 7 specs, and 0 failures.
 
 ## Helpful Online Documentation/Resources
